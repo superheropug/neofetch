@@ -1,12 +1,14 @@
-This is my fork of Neofetch, as I was saddened to see this project die. While I don't have much free time, I wish to see this project survive in some way, as I am particularly attatched to it.
+This is my fork of Neofetch, as I was saddened to see this project die. While I don't have much free time to devote to this, I wish to see this project survive in some way, as I am particularly attatched to it.
 
-Neofetch is a program I make frequent use of, and as such, I have taken a fork of it to maintain myself.
-
-Below is the original Neofetch text.
+Neofetch is a program I make frequent use of, and as such, I have taken a fork of it to maintain myself. If you wish to make changes and open PRs, I will try to review them when I can. 
 
 That's all, 
 
  -Superheropug
+
+Below is the original Neofetch text.
+
+
 
 <h3 align="center"><img src="https://i.imgur.com/ZQI2EYz.png" alt="logo" height="100px"></h3>
 <p align="center">A command-line system information tool written in bash 3.2+</p>
