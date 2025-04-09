@@ -1,4 +1,4 @@
-This is my fork of Neofetch, as I was saddened to see this project die.
+This is my fork of Neofetch, as I was saddened to see this project die. While I don't have much free time, I wish to see this project survive in some way, as I am particularly attatched to it.
 
 Neofetch is a program I make frequent use of, and as such, I have taken a fork of it to maintain myself.
 
