@@ -1,3 +1,9 @@
+This is my fork of Neofetch, as I was saddened to see this project die.
+
+Neofetch is a program I make frequent use of, and as such, I have taken a fork of it to maintain myself.
+
+Below is the original Neofetch text.
+
 <h3 align="center"><img src="https://i.imgur.com/ZQI2EYz.png" alt="logo" height="100px"></h3>
 <p align="center">A command-line system information tool written in bash 3.2+</p>
 
