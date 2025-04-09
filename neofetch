@@ -1784,6 +1784,10 @@ get_de() {
                 *"Windows 8"*)
                     de=Metro
                 ;;
+                *"Windows 11"*)
+                    de="Sun Valley"
+                ;;
+
 
                 *)
                     de=Aero
