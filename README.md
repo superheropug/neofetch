@@ -1,6 +1,6 @@
 This is my fork of Neofetch, as I was saddened to see this project die. While I don't have much free time to devote to this, I wish to see this project survive in some way, as I am particularly attatched to it.
 
-Neofetch is a program I make frequent use of, and as such, I have taken a fork of it to maintain myself. If you wish to make changes and open PRs, I will try to review them when I can. 
+Neofetch is a program I make frequent use of, and as such, I have taken a fork of it to attempt to maintain myself. If you wish to make changes and open PRs, I will try to review them when I can. 
 
 That's all, 
 
